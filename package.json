@@ -21,13 +21,15 @@
   "homepage": "https://github.com/bahram1249/rahino-auth#readme",
   "dependencies": {
     "@nestjs/cache-manager": "^2.3.0",
-    "@nestjs/common": "^10.4.15",
+    "@nestjs/common": "^10.0.0",
     "@nestjs/config": "^3.3.0",
     "@nestjs/passport": "^10.0.3",
     "@nestjs/sequelize": "^10.0.1",
+    "@rahino/database": "^2.0.0",
     "@types/node": "^22.10.3",
+    "@types/passport": "^1.0.17",
+    "cache-manager": "^5.2.4",
     "passport-jwt": "^4.0.1",
-    "reflect-metadata": "^0.2.2",
     "rimraf": "^6.0.1",
     "rxjs": "^7.8.1",
     "typescript": "^5.7.2"
