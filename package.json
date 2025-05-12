@@ -1,6 +1,6 @@
 {
   "name": "@rahino/auth",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "rahino nest authentication library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -27,7 +27,7 @@
     "@nestjs/config": "^3.3.0",
     "@nestjs/passport": "^10.0.3",
     "@nestjs/sequelize": "^10.0.1",
-    "@rahino/database": "^7.1.0",
+    "@rahino/database": "^7.1.1",
     "@types/node": "^22.10.3",
     "@types/passport": "^1.0.17",
     "cache-manager": "^5.2.4",
